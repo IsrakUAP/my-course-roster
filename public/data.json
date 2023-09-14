@@ -1,0 +1,66 @@
+[
+    {
+      "course-img": "../Asset/Rectangle 2-1.png",
+      "course-title": "Introduction to Web Development",
+      "course-description": "This course provides a comprehensive introduction to web development, covering HTML, CSS, and JavaScript. Students will learn how to build and design websites from scratch.",
+      "course-fee": "$299.99",
+      "course-credit": 3
+    },
+    {
+      "course-img": "../Asset/Rectangle 2-2.png",
+      "course-title": "Intermediate Python Programming",
+      "course-description": "This intermediate Python programming course delves into advanced topics such as object-oriented programming, data structures, and algorithm analysis.",
+      "course-fee": "$249.99",
+      "course-credit": 4
+    },
+    {
+      "course-img": "../Asset/Rectangle 2-3.png",
+      "course-title": "Digital Marketing Fundamentals",
+      "course-description": "Learn the essentials of digital marketing, including SEO, social media marketing, email campaigns, and analytics.",
+      "course-fee": "$199.99",
+      "course-credit": 2
+    },
+    {
+      "course-img": "../Asset/Rectangle 2-4.png",
+      "course-title": "Machine Learning Basics",
+      "course-description": "Get started with machine learning. Cover foundational algorithms and techniques for building predictive models.",
+      "course-fee": "$349.99",
+      "course-credit": 3
+    },
+    {
+      "course-img": "../Asset/Rectangle 2-5.png",
+      "course-title": "Financial Accounting Principles",
+      "course-description": "Learn the principles of financial accounting, including balance sheets, income statements, and cash flow analysis.",
+      "course-fee": "$279.99",
+      "course-credit": 3
+    },
+    {
+      "course-img": "../Asset/Rectangle 2-6.png",
+      "course-title": "Graphic Design Fundamentals",
+      "course-description": "Explore the basics of graphic design, including layout, color theory, typography, and image editing.",
+      "course-fee": "$199.99",
+      "course-credit": 2
+    },
+    {
+      "course-img": "../Asset/Rectangle 2.png",
+      "course-title": "Introduction to Data Science",
+      "course-description": "Discover the world of data science, including data analysis, visualization, and statistical techniques.",
+      "course-fee": "$299.99",
+      "course-credit": 3
+    },
+    {
+      "course-img": "../Asset/Rectangle 3-1.png",
+      "course-title": "Mobile App Development with React Native",
+      "course-description": "Build mobile apps using React Native. Cover UI development, API integration, and deployment.",
+      "course-fee": "$349.99",
+      "course-credit": 4
+    },
+    {
+      "course-img": "../Asset/Rectangle 3.png",
+      "course-title": "Business Ethics and Corporate Responsibility",
+      "course-description": "Explore ethical issues in business and corporate responsibility. Analyze case studies and ethical dilemmas.",
+      "course-fee": "$229.99",
+      "course-credit": 3
+    }
+  ]
+  
