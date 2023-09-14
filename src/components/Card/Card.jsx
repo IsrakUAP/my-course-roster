@@ -1,6 +1,6 @@
 
 
-const Card = ({card}) => {
+const Card = ({card,countCourse}) => {
     const {courseImg,courseTitle,courseDescription,courseFeeIcon,courseFee,courseIcon,courseCredit} = card;
     console.log(card);
     return (
@@ -11,7 +11,7 @@ const Card = ({card}) => {
             <div>
                 <img src={courseFeeIcon} alt="" /><span>Price: {courseFee}</span> <img src={courseIcon} alt="" /><span>Credit: {courseCredit} </span>
             </div>
-            <button>Select</button>
+            <button onClick={()=>countCourse(card)} >Select</button>
         </div>
     );
 };
