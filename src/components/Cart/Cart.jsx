@@ -1,8 +1,9 @@
 
-const Cart = ({coursename}) => {
+const Cart = ({coursename,creditHr,hourRemaining}) => {
+    const limitedCreditHr = Math.min(creditHr, 20);
     return (
         <div>
-            <h1>length: {coursename.length}</h1>
+            <p>Credit Hour Remaining {hourRemaining} hr</p>
             <h2>Course Name</h2>
             <ol>
             {
@@ -12,6 +13,7 @@ const Cart = ({coursename}) => {
                 )
             }
             </ol>
+            <p>Total Credit Hour : {limitedCreditHr}</p>
         </div>
     );
 };
