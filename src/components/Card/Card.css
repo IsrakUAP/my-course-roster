@@ -1,0 +1,36 @@
+.cardContainer {
+    background-color: white;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.cardItems {
+    width: 312px;
+    height: auto;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.cardBtn {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #2F80ED;
+    background: #2F80ED;
+    border-radius: 8px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.cardImg {
+    width: 100%;
+}
+
+.iconContainer {
+    margin-bottom: 20px;
+}
+
+.cardItems span {
+    margin: 0px 12px;
+}

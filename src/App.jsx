@@ -61,6 +61,7 @@ function App() {
 
   return (
     <>
+      <p className='headerName'>Course Registration</p>
       <div className='headerContainer'>
         <Cards countCourse={countCourse}></Cards>
         <Cart coursename={coursename} creditHr={creditHr} hourRemaining={hourRemaining} courseCost={courseCost}></Cart>

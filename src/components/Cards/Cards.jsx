@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import Card from "../Card/Card";
+import "./Cards.css"
 
 
 const Cards = ({countCourse}) => {
@@ -11,9 +12,9 @@ const Cards = ({countCourse}) => {
         .then(data=>setCards(data))
     },[])
     return (
-        <div>
+        <div className="cardsContainer">
             {
-                cards.map(card=><Card card={card} countCourse={countCourse}></Card>)
+                cards.map(card=><Card card={card} key={card.courseTitle} countCourse={countCourse}></Card>)
             }
         </div>
     );
