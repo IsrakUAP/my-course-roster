@@ -1,84 +1,83 @@
 [
-    {
-      "courseImg": "../asset/Rectangle 2-1.png",
-      "courseTitle": "About Database (MySQL)",
-      "courseDescription": "This course covers the fundamentals of database management with a focus on MySQL. Learn how to create, query, and manage databases.",
-      "courseFee": 19000,
-      "courseCredit": 5,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 2-2.png",
-      "courseTitle": "Introduction to C Programming",
-      "courseDescription": "Explore the basics of C programming language. Learn about variables, loops, functions, and program structure.",
-      "courseFee": 15000,
-      "courseCredit": 3,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 2-3.png",
-      "courseTitle": "Introduction to Algorithms",
-      "courseDescription": "This course introduces fundamental algorithms and data structures. Explore sorting, searching, and algorithm analysis.",
-      "courseFee": 25000,
-      "courseCredit": 2,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 2-4.png",
-      "courseTitle": "Introduction to C++ for DSA",
-      "courseDescription": "Learn C++ programming for data structure and algorithms. Cover pointers, classes, and data structure implementations.",
-      "courseFee": 10000,
-      "courseCredit": 10,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 2-5.png",
-      "courseTitle": "Software Engineering",
-      "courseDescription": "Discover software engineering principles, including requirements analysis, design, testing, and project management.",
-      "courseFee": 23000,
-      "courseCredit": 2,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 2-6.png",
-      "courseTitle": "Problem-Solving Part",
-      "courseDescription": "Develop problem-solving skills with real-world examples and coding challenges. Enhance your algorithmic thinking.",
-      "courseFee": 23000,
-      "courseCredit": 2,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 2.png",
-      "courseTitle": "Introduction to OOP Python",
-      "courseDescription": "Learn object-oriented programming (OOP) with Python. Explore classes, objects, inheritance, and polymorphism.",
-      "courseFee": 19000,
-      "courseCredit": 5,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 3-1.png",
-      "courseTitle": "AWS, Cloud Computing",
-      "courseDescription": "Get started with Amazon Web Services (AWS) and cloud computing. Deploy and manage scalable applications.",
-      "courseFee": 35000,
-      "courseCredit": 5,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    },
-    {
-      "courseImg": "../asset/Rectangle 3.png",
-      "courseTitle": "Basic Data Structures",
-      "courseDescription": "Explore fundamental data structures such as arrays, linked lists, stacks, and queues. Understand their applications.",
-      "courseFee": 35000,
-      "courseCredit": 5,
-      "courseFeeIcon": "../icon/dollar.png",
-      "courseIcon": "../icon/book.png"
-    }
-  ]
-  
+  {
+    "courseImg": "https://i.ibb.co/mFxmqKZ/Rectangle-2-1.png",
+    "courseTitle": "About Database (MySQL)",
+    "courseDescription": "This course covers the fundamentals of database management with a focus on MySQL. Learn how to create, query, and manage databases.",
+    "courseFee": 19000,
+    "courseCredit": 5,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/92DYdvz/Rectangle-2-2.png",
+    "courseTitle": "Introduction to C Programming",
+    "courseDescription": "Explore the basics of C programming language. Learn about variables, loops, functions, and program structure.",
+    "courseFee": 15000,
+    "courseCredit": 3,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/WkDsmwt/Rectangle-2-3.png",
+    "courseTitle": "Introduction to Algorithms",
+    "courseDescription": "This course introduces fundamental algorithms and data structures. Explore sorting, searching, and algorithm analysis.",
+    "courseFee": 25000,
+    "courseCredit": 2,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/WBF7ZZF/Rectangle-2-4.png",
+    "courseTitle": "Introduction to C++ for DSA",
+    "courseDescription": "Learn C++ programming for data structure and algorithms. Cover pointers, classes, and data structure implementations.",
+    "courseFee": 10000,
+    "courseCredit": 10,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/gJSmj0Q/Rectangle-2-5.png",
+    "courseTitle": "Software Engineering",
+    "courseDescription": "Discover software engineering principles, including requirements analysis, design, testing, and project management.",
+    "courseFee": 23000,
+    "courseCredit": 2,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/NnYPw4C/Rectangle-2-6.png",
+    "courseTitle": "Problem-Solving Part",
+    "courseDescription": "Develop problem-solving skills with real-world examples and coding challenges. Enhance your algorithmic thinking.",
+    "courseFee": 23000,
+    "courseCredit": 2,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/DDvfXQV/Rectangle-2.png",
+    "courseTitle": "Introduction to OOP Python",
+    "courseDescription": "Learn object-oriented programming (OOP) with Python. Explore classes, objects, inheritance, and polymorphism.",
+    "courseFee": 19000,
+    "courseCredit": 5,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/zZhJpNc/Rectangle-3-1.png",
+    "courseTitle": "AWS, Cloud Computing",
+    "courseDescription": "Get started with Amazon Web Services (AWS) and cloud computing. Deploy and manage scalable applications.",
+    "courseFee": 35000,
+    "courseCredit": 5,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  },
+  {
+    "courseImg": "https://i.ibb.co/kDNSM9r/Rectangle-3.png",
+    "courseTitle": "Basic Data Structures",
+    "courseDescription": "Explore fundamental data structures such as arrays, linked lists, stacks, and queues. Understand their applications.",
+    "courseFee": 35000,
+    "courseCredit": 5,
+    "courseFeeIcon": "https://i.ibb.co/B2fk3cj/dollar.png",
+    "courseIcon": "https://i.ibb.co/02dyRvL/book.png"
+  }
+]
